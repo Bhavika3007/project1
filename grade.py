@@ -16,4 +16,4 @@ else:
    if inte < 50:
        print('failed in internal')
    if ext < 50:
-       print('failed in external'
+       print('failed in external')
