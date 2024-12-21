@@ -1,0 +1,39 @@
+1.Educational Analysis:
+-----a)Schema:qualification,income
+Many people only have high school or some college education, which limits job opportunities and income.
+Make higher education more affordable and accessible, especially for people with lower incomes.
+Offer programs for adults who didn’t finish school so they can gain new skills and get better jobs.
+
+-----b)Schema:parent status,age,citizenship
+checking if parents status is notinuniverse,1<age<20.
+=>For young individuals with unclear parent status, providing scholarships or building schools can ensure that they get access to education.
+This could be crucial for children who are in unstable family situations and need the opportunity to escape poverty through education.
+Ministry of Education (MoE)
+Ministry of Women and Child Development (MWCD)
+
+2.social welfare
+-----a)Schema:martial status,age
+Provide employment opportunities for widows under the age of 50 in sectors facing labor shortages, such as healthcare, education, or technology.
+Widows often face financial hardships after losing their spouse, and this policy can help them regain financial independence and contribute to sectors with staffing shortages.
+
+-----b)Schema:age,qualification
+if qualification is Highschoolgraduate then next they will join in btech or degree or mbbs so govt need to ready for the scholarships
+The government should prepare scholarships for students who want to pursue higher education in fields that are in high demand, like technology, healthcare, or engineering.
+
+3.financial
+-------a)schema: marital status,gender,income
+gender is female and status is divorced and their source of income is less, when they are under below poverty line we will provide pensions
+If divorced women fall below the poverty line, the government can offer pension programs to provide them with financial support.
+
+-------b)schema: income, marital status
+analyze how income varies across different family structures.
+ministry of finance(mof) may provide subsidies for the families to provide economical stability.
+
+4.planning analysis
+------a)schema:country,citizenship
+ Foreign-born people might have fewer rights or face difficulties accessing help. Also, many low-income people don’t participate in the tax system, missing out on benefits.
+ Help immigrants integrate better and simplify the tax system for low-income individuals.
+
+-------b)schema:age,no.of weeks worked
+Young workers might need additional job training or support to increase their average number of weeks worked, transitioning them from part-time or seasonal work to full-time roles.
+Older workers nearing retirement age may benefit from flexible work arrangements or retirement planning resources to ease their transition.
